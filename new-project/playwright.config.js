@@ -14,7 +14,7 @@ const config = {
   reporter: 'html',
   /* Configure projects for major browsers */
  use:{
-  browserName:'firefox',
+  browserName:'chromium',
   headless: false
  }
 };
